@@ -2,12 +2,12 @@ import 'dart:developer';
 
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:hansa_app/api_models.dart/prezintatsi_model.dart';
-import 'package:hansa_app/api_services/welcome_api.dart';
-import 'package:hansa_app/blocs/prezintatsia_bloc.dart';
-import 'package:hansa_app/classes/sned_url_prezent_otkrit.dart';
-import 'package:hansa_app/extra/archive_card.dart';
-import 'package:hansa_app/extra/prezentatTabCard.dart';
+import 'package:hansa_lab/api_models.dart/prezintatsi_model.dart';
+import 'package:hansa_lab/api_services/welcome_api.dart';
+import 'package:hansa_lab/blocs/prezintatsia_bloc.dart';
+import 'package:hansa_lab/classes/sned_url_prezent_otkrit.dart';
+import 'package:hansa_lab/extra/archive_card.dart';
+import 'package:hansa_lab/extra/prezentatTabCard.dart';
 import 'package:lottie/lottie.dart';
 import 'package:provider/provider.dart';
 import 'package:sticky_headers/sticky_headers.dart';

@@ -2,10 +2,10 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:hansa_app/api_models.dart/rating_top_model.dart';
-import 'package:hansa_app/api_services/rating_top_api.dart';
-import 'package:hansa_app/drawer_widgets/drawer_stat_title.dart';
-import 'package:hansa_app/providers/fullname_provider.dart';
+import 'package:hansa_lab/api_models.dart/rating_top_model.dart';
+import 'package:hansa_lab/api_services/rating_top_api.dart';
+import 'package:hansa_lab/drawer_widgets/drawer_stat_title.dart';
+import 'package:hansa_lab/providers/fullname_provider.dart';
 import 'package:provider/provider.dart';
 
 class DrawerStats extends StatefulWidget {

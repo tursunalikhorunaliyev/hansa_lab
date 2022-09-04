@@ -2,7 +2,7 @@ import 'dart:async';
 import 'dart:convert';
 import 'dart:developer';
 
-import 'package:hansa_app/enums/enum_push_uvodamleniya.dart';
+import 'package:hansa_lab/enums/enum_push_uvodamleniya.dart';
 import 'package:http/http.dart' as http;
 
 class BlocPushUvodamleniya {

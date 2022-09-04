@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:hansa_app/api_models.dart/catalog_model.dart';
-import 'package:hansa_app/api_services/catalog_api.dart';
-import 'package:hansa_app/api_services/welcome_api.dart';
-import 'package:hansa_app/extra/custom_katalog_item_double.dart';
-import 'package:hansa_app/extra/custom_tablet_katalog_item.dart';
-import 'package:hansa_app/extra/custom_title.dart';
+import 'package:hansa_lab/api_models.dart/catalog_model.dart';
+import 'package:hansa_lab/api_services/catalog_api.dart';
+import 'package:hansa_lab/api_services/welcome_api.dart';
+import 'package:hansa_lab/extra/custom_katalog_item_double.dart';
+import 'package:hansa_lab/extra/custom_tablet_katalog_item.dart';
+import 'package:hansa_lab/extra/custom_title.dart';
 import 'package:lottie/lottie.dart';
 import 'package:provider/provider.dart';
 import 'package:sticky_headers/sticky_headers.dart';

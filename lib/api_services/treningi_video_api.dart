@@ -3,7 +3,7 @@ import 'dart:convert';
 
 import 'package:http/http.dart' as http;
 
-import 'package:hansa_app/api_models.dart/treningi_video_model.dart';
+import 'package:hansa_lab/api_models.dart/treningi_video_model.dart';
 
 class TreningiVideoApi {
   static Future<TreningiVideoModel> getTreningiVideo(url, token) async {

@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:hansa_app/api_models.dart/model_doljnost.dart';
-import 'package:hansa_app/blocs/bloc_doljnost.dart';
-import 'package:hansa_app/blocs/bloc_popup_drawer.dart';
-import 'package:hansa_app/classes/send_data_personal_update.dart';
-import 'package:hansa_app/enums/enum_action_view.dart';
+import 'package:hansa_lab/api_models.dart/model_doljnost.dart';
+import 'package:hansa_lab/blocs/bloc_doljnost.dart';
+import 'package:hansa_lab/blocs/bloc_popup_drawer.dart';
+import 'package:hansa_lab/classes/send_data_personal_update.dart';
+import 'package:hansa_lab/enums/enum_action_view.dart';
 import 'package:provider/provider.dart';
 
 class PopupPersonalDoljnost extends StatefulWidget {

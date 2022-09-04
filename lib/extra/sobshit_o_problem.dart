@@ -3,9 +3,9 @@ import 'dart:convert';
 import 'package:flip_card/flip_card.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:hansa_app/api_models.dart/model_o_kompaniya_napisat.dart';
-import 'package:hansa_app/blocs/bloc_empty_sobshit.dart';
-import 'package:hansa_app/extra/sobshit_o_problem_success.dart';
+import 'package:hansa_lab/api_models.dart/model_o_kompaniya_napisat.dart';
+import 'package:hansa_lab/blocs/bloc_empty_sobshit.dart';
+import 'package:hansa_lab/extra/sobshit_o_problem_success.dart';
 import 'package:http/http.dart' as http;
 import 'package:provider/provider.dart';
 

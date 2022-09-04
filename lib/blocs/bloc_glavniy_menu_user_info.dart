@@ -1,8 +1,8 @@
 import 'dart:async';
 import 'dart:convert';
 
-import 'package:hansa_app/api_models.dart/model_glavniy_menu_user_info.dart';
-import 'package:hansa_app/enums/enum_action_view.dart';
+import 'package:hansa_lab/api_models.dart/model_glavniy_menu_user_info.dart';
+import 'package:hansa_lab/enums/enum_action_view.dart';
 import 'package:http/http.dart' as http;
 
 class BlocGlavniyMenuUserInfo {

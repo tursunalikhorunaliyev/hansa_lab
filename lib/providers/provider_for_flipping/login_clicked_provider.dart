@@ -1,6 +1,6 @@
 
 import 'package:flutter/material.dart';
-import 'package:hansa_app/blocs/login_clicked_bloc.dart';
+import 'package:hansa_lab/blocs/login_clicked_bloc.dart';
 
 class LoginClickedProvider extends ChangeNotifier{
   LoginAction loginAction = LoginAction.signin;

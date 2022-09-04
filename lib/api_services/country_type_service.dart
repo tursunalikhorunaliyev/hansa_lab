@@ -1,7 +1,7 @@
 import 'dart:convert';
 
-import 'package:hansa_app/api_models.dart/country_type_model.dart';
-import 'package:hansa_app/api_services/api_urls.dart';
+import 'package:hansa_lab/api_models.dart/country_type_model.dart';
+import 'package:hansa_lab/api_services/api_urls.dart';
 import 'package:http/http.dart';
 
 class CountryTypeService{

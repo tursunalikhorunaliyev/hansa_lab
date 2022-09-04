@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:hansa_app/blocs/menu_events_bloc.dart';
-import 'package:hansa_app/drawer_widgets/text_icon.dart';
+import 'package:hansa_lab/blocs/menu_events_bloc.dart';
+import 'package:hansa_lab/drawer_widgets/text_icon.dart';
 import 'package:provider/provider.dart';
 
 class TextIconCard extends StatelessWidget {

@@ -1,7 +1,7 @@
 import 'dart:convert';
-import 'package:hansa_app/apis/api_headers.dart';
-import 'package:hansa_app/apis/api_urls.dart';
-import 'package:hansa_app/apis/pdf_link_model.dart';
+import 'package:hansa_lab/apis/api_headers.dart';
+import 'package:hansa_lab/apis/api_urls.dart';
+import 'package:hansa_lab/apis/pdf_link_model.dart';
 import 'package:http/http.dart' as http;
 
 class PDFLinkApi {

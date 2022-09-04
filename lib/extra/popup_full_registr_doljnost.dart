@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:hansa_app/api_models.dart/job_model.dart';
-import 'package:hansa_app/blocs/bloc_popup_drawer.dart';
-import 'package:hansa_app/blocs/hansa_job_api.dart';
+import 'package:hansa_lab/api_models.dart/job_model.dart';
+import 'package:hansa_lab/blocs/bloc_popup_drawer.dart';
+import 'package:hansa_lab/blocs/hansa_job_api.dart';
 import 'package:provider/provider.dart';
 
 class PopupFullRegistrDoljnost extends StatefulWidget {

@@ -1,9 +1,9 @@
 import 'dart:async';
 
-import 'package:hansa_app/apis/pdf_guide_api.dart';
-import 'package:hansa_app/apis/pdf_guide_model.dart';
-import 'package:hansa_app/apis/pdf_link_api.dart';
-import 'package:hansa_app/apis/pdf_link_model.dart';
+import 'package:hansa_lab/apis/pdf_guide_api.dart';
+import 'package:hansa_lab/apis/pdf_guide_model.dart';
+import 'package:hansa_lab/apis/pdf_link_api.dart';
+import 'package:hansa_lab/apis/pdf_link_model.dart';
 
 final hansaLinkPDF = PDFLinkApi();
 final handaReadPDF = PDFGuideAPI();

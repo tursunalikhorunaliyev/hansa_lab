@@ -1,7 +1,7 @@
 import 'dart:async';
 import 'dart:convert';
 
-import 'package:hansa_app/video/model_video.dart';
+import 'package:hansa_lab/video/model_video.dart';
 import 'package:http/http.dart';
 
 enum ActionVideo {

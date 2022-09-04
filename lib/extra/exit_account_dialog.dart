@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:hansa_app/screens/hansa_zagruzka.dart';
+import 'package:hansa_lab/screens/hansa_zagruzka.dart';
 import 'package:hive/hive.dart';
 
 class ExitAccountDialog extends StatelessWidget {

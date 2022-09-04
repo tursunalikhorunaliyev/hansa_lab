@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:hansa_app/api_models.dart/model_o_kompaniya.dart';
-import 'package:hansa_app/blocs/bloc_o_kompaniya.dart';
-import 'package:hansa_app/enums/enum_action_view.dart';
-import 'package:hansa_app/extra/sobshit_o_problem.dart';
+import 'package:hansa_lab/api_models.dart/model_o_kompaniya.dart';
+import 'package:hansa_lab/blocs/bloc_o_kompaniya.dart';
+import 'package:hansa_lab/enums/enum_action_view.dart';
+import 'package:hansa_lab/extra/sobshit_o_problem.dart';
 import 'package:provider/provider.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:sticky_headers/sticky_headers.dart';

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:hansa_app/extra/custom_double_clip_item.dart';
+import 'package:hansa_lab/extra/custom_double_clip_item.dart';
 
 class CustomTreningiReg extends StatelessWidget {
   const CustomTreningiReg({Key? key}) : super(key: key);

@@ -1,7 +1,7 @@
 import 'dart:io';
 
 import 'package:flutter/material.dart';
-import 'package:hansa_app/screens/splash_screen.dart';
+import 'package:hansa_lab/screens/splash_screen.dart';
 import 'package:permission_handler/permission_handler.dart';
 
 class PermissionHandlerScreen extends StatefulWidget {

@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:hansa_app/api_models.dart/model_glavniy_menu_user_info.dart';
-import 'package:hansa_app/blocs/bloc_glavniy_menu_user_info.dart';
-import 'package:hansa_app/enums/enum_action_view.dart';
+import 'package:hansa_lab/api_models.dart/model_glavniy_menu_user_info.dart';
+import 'package:hansa_lab/blocs/bloc_glavniy_menu_user_info.dart';
+import 'package:hansa_lab/enums/enum_action_view.dart';
 import 'package:provider/provider.dart';
 import 'package:share_plus/share_plus.dart';
 

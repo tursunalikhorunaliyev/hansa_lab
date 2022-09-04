@@ -1,6 +1,6 @@
 import 'dart:async';
 import 'dart:convert';
-import 'package:hansa_app/api_models.dart/stati_model.dart';
+import 'package:hansa_lab/api_models.dart/stati_model.dart';
 import 'package:http/http.dart' as http;
 
 class StatiBLoC {

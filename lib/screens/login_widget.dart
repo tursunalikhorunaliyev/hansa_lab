@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:hansa_app/extra/login_card.dart';
+import 'package:hansa_lab/extra/login_card.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 class LoginWidget extends StatelessWidget {
   const LoginWidget({Key? key}) : super(key: key);

@@ -1,7 +1,7 @@
 import 'dart:async';
 import 'dart:convert';
 
-import 'package:hansa_app/api_models.dart/obucheniya_model_api.dart';
+import 'package:hansa_lab/api_models.dart/obucheniya_model_api.dart';
 import 'package:http/http.dart' as http;
 
 enum ObucheniyaEnum { obucheniya }

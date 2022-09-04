@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:hansa_app/extra/custom_clip_item.dart';
+import 'package:hansa_lab/extra/custom_clip_item.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 
 class CustomPrezentatsiItem extends StatelessWidget {

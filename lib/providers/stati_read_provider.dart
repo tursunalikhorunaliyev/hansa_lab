@@ -2,7 +2,7 @@ import 'dart:convert';
 
 import 'package:flutter/cupertino.dart';
 import 'package:http/http.dart' as http;
-import 'package:hansa_app/api_models.dart/stati_comment_model.dart';
+import 'package:hansa_lab/api_models.dart/stati_comment_model.dart';
 
 class ReadStatiProvider extends ChangeNotifier {
   List<Map<String, dynamic>> comments = [];

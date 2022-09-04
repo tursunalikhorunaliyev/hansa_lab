@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:hansa_app/api_models.dart/store_model.dart';
-import 'package:hansa_app/api_services/store_service.dart';
-import 'package:hansa_app/blocs/bloc_full_register.dart';
+import 'package:hansa_lab/api_models.dart/store_model.dart';
+import 'package:hansa_lab/api_services/store_service.dart';
+import 'package:hansa_lab/blocs/bloc_full_register.dart';
 import 'package:provider/provider.dart';
 
 class NazvaniyaWidget extends StatefulWidget {

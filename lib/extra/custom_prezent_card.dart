@@ -1,8 +1,8 @@
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:hansa_app/blocs/favourite_bloc.dart';
-import 'package:hansa_app/extra/custom_paint_clipper.dart';
+import 'package:hansa_lab/blocs/favourite_bloc.dart';
+import 'package:hansa_lab/extra/custom_paint_clipper.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:provider/provider.dart';
 

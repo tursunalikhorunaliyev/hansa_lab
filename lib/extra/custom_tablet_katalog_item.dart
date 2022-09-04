@@ -1,7 +1,7 @@
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:hansa_app/extra/custom_bottom_tablet_item.dart';
+import 'package:hansa_lab/extra/custom_bottom_tablet_item.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 class TabletKatalogItem extends StatefulWidget {

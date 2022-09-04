@@ -3,15 +3,15 @@ import 'package:flip_card/flip_card_controller.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:hansa_app/blocs/login_anim_bloc.dart';
-import 'package:hansa_app/blocs/login_clicked_bloc.dart';
-import 'package:hansa_app/extra/full_registr.dart';
-import 'package:hansa_app/extra/hansa_entry_widget.dart';
-import 'package:hansa_app/extra/login_card.dart';
-import 'package:hansa_app/extra/regis_widget.dart';
-import 'package:hansa_app/providers/provider_for_flipping/flip_login_provider.dart';
-import 'package:hansa_app/providers/provider_for_flipping/login_clicked_provider.dart';
-import 'package:hansa_app/providers/providers_for_login/password_visibility_provider.dart';
+import 'package:hansa_lab/blocs/login_anim_bloc.dart';
+import 'package:hansa_lab/blocs/login_clicked_bloc.dart';
+import 'package:hansa_lab/extra/full_registr.dart';
+import 'package:hansa_lab/extra/hansa_entry_widget.dart';
+import 'package:hansa_lab/extra/login_card.dart';
+import 'package:hansa_lab/extra/regis_widget.dart';
+import 'package:hansa_lab/providers/provider_for_flipping/flip_login_provider.dart';
+import 'package:hansa_lab/providers/provider_for_flipping/login_clicked_provider.dart';
+import 'package:hansa_lab/providers/providers_for_login/password_visibility_provider.dart';
 import 'package:provider/provider.dart';
 
 class HansaZagruzka extends StatelessWidget {

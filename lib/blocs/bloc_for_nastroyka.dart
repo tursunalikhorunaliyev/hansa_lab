@@ -2,7 +2,7 @@ import 'dart:async';
 import 'dart:convert';
 import 'dart:developer';
 
-import 'package:hansa_app/api_models.dart/nastroyka_model.dart';
+import 'package:hansa_lab/api_models.dart/nastroyka_model.dart';
 import 'package:http/http.dart' as http;
 
 enum Nastroyka { nastroyka }

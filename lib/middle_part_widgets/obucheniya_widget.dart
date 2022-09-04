@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:hansa_app/api_models.dart/obucheniya_model_api.dart';
-import 'package:hansa_app/api_services/welcome_api.dart';
-import 'package:hansa_app/blocs/bloc_obucheniya.dart';
-import 'package:hansa_app/extra/custom_obucheniya_card.dart';
-import 'package:hansa_app/obucheniyaTab.dart';
+import 'package:hansa_lab/api_models.dart/obucheniya_model_api.dart';
+import 'package:hansa_lab/api_services/welcome_api.dart';
+import 'package:hansa_lab/blocs/bloc_obucheniya.dart';
+import 'package:hansa_lab/extra/custom_obucheniya_card.dart';
+import 'package:hansa_lab/obucheniyaTab.dart';
 import 'package:lottie/lottie.dart';
 import 'package:provider/provider.dart';
 import 'package:sticky_headers/sticky_headers.dart';

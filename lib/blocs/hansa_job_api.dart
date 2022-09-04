@@ -1,7 +1,7 @@
 import 'dart:async';
 import 'dart:convert';
-import 'package:hansa_app/api_services/api_urls.dart';
-import 'package:hansa_app/api_models.dart/job_model.dart';
+import 'package:hansa_lab/api_services/api_urls.dart';
+import 'package:hansa_lab/api_models.dart/job_model.dart';
 import 'package:http/http.dart';
 
 enum JobEnum { job }

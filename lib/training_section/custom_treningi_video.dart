@@ -2,9 +2,9 @@ import 'dart:developer';
 
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:hansa_app/blocs/bloc_detect_tap.dart';
-import 'package:hansa_app/blocs/download_progress_bloc.dart';
-import 'package:hansa_app/classes/send_analise_download.dart';
+import 'package:hansa_lab/blocs/bloc_detect_tap.dart';
+import 'package:hansa_lab/blocs/download_progress_bloc.dart';
+import 'package:hansa_lab/classes/send_analise_download.dart';
 import 'package:percent_indicator/linear_percent_indicator.dart';
 import 'package:provider/provider.dart';
 

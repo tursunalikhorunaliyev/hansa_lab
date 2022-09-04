@@ -3,9 +3,9 @@ import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:hansa_app/extra/top_video_widget.dart';
-import 'package:hansa_app/video/bloc_video_api.dart';
-import 'package:hansa_app/video/model_video.dart';
+import 'package:hansa_lab/extra/top_video_widget.dart';
+import 'package:hansa_lab/video/bloc_video_api.dart';
+import 'package:hansa_lab/video/model_video.dart';
 import 'package:provider/provider.dart';
 
 //salom dunyo

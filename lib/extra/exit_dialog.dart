@@ -1,7 +1,7 @@
 import 'dart:io';
 
 import 'package:flutter/material.dart';
-import 'package:hansa_app/classes/send_check_switcher.dart';
+import 'package:hansa_lab/classes/send_check_switcher.dart';
 import 'package:provider/provider.dart';
 
 class ExitDialog extends StatelessWidget {

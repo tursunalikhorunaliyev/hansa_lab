@@ -1,6 +1,6 @@
 import 'dart:async';
 import 'dart:convert';
-import 'package:hansa_app/api_models.dart/rating_top_model.dart';
+import 'package:hansa_lab/api_models.dart/rating_top_model.dart';
 import 'package:http/http.dart';
 
 enum RatingEnum { rating }
