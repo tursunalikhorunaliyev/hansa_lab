@@ -50,20 +50,20 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAxaCZ0xRXwlk-KLJDlkxLrkzxDeWnx8AE',
-    appId: '1:180272152187:android:d9f44d9a77c97c57a7acde',
-    messagingSenderId: '180272152187',
-    projectId: 'hansa-lab-b2da5',
-    storageBucket: 'hansa-lab-b2da5.appspot.com',
+    apiKey: 'AIzaSyCP9Z22qbfD94jc2KwQa4E46RDGXNd7TFo',
+    appId: '1:386937103145:android:6981a047c8907734854d38',
+    messagingSenderId: '386937103145',
+    projectId: 'hansa-lab-be599',
+    storageBucket: 'hansa-lab-be599.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAlmJGXe6278btJw7EMY9ChhGRPlPBHYRE',
-    appId: '1:180272152187:ios:4635c734c984a94da7acde',
-    messagingSenderId: '180272152187',
-    projectId: 'hansa-lab-b2da5',
-    storageBucket: 'hansa-lab-b2da5.appspot.com',
-    iosClientId: '180272152187-qvo7k6tpqd1aar92t4qruondmb03lntn.apps.googleusercontent.com',
-    iosBundleId: 'com.example.hansaApp',
+    apiKey: 'AIzaSyDn8JW6zMohbpfp4at9JD6I6rrYBO_mYW4',
+    appId: '1:386937103145:ios:698474a695839ac9854d38',
+    messagingSenderId: '386937103145',
+    projectId: 'hansa-lab-be599',
+    storageBucket: 'hansa-lab-be599.appspot.com',
+    iosClientId: '386937103145-ghq2rmtj9fp2a7ccdpge81ie73cu8vnd.apps.googleusercontent.com',
+    iosBundleId: 'com.example.hansaLab',
   );
 }

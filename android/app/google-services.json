@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "386937103145",
+    "project_id": "hansa-lab-be599",
+    "storage_bucket": "hansa-lab-be599.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386937103145:android:6981a047c8907734854d38",
+        "android_client_info": {
+          "package_name": "com.example.hansa_lab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386937103145-92r26ek630i8k41tgqtf10oncomlo49t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP9Z22qbfD94jc2KwQa4E46RDGXNd7TFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386937103145-92r26ek630i8k41tgqtf10oncomlo49t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
